@@ -16,8 +16,8 @@ from mock_signals import get_generator, CLASSIFICATIONS
 
 # Page configuration
 st.set_page_config(
-    page_title="Intel Monitor | Real-Time Intelligence",
-    page_icon="🛰️",
+    page_title="Intel Monitor | Signal Intelligence",
+    page_icon="◉",
     layout="wide",
     initial_sidebar_state="expanded",
 )
